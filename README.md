@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Curso de preparación, pruebas.
+Este es mi primer repositorio
